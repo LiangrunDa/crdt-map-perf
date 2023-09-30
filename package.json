@@ -1,0 +1,8 @@
+{
+  "name": "automerge-map-perf",
+  "version": "1.0.0",
+  "dependencies": {
+    "@automerge/automerge": "2.0.0",
+    "yjs": "^13.6.8"
+  }
+}
